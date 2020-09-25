@@ -55,6 +55,7 @@
           <e p="chart.py" t="Include" />
           <e p="common.py" t="Include" />
           <e p="kmeans.py" t="Include" />
+          <e p="test.py" t="Include" />
         </e>
         <e p="UI" t="Include">
           <e p="App.xaml" t="Include" />

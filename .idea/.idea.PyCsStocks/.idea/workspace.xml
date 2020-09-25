@@ -40,6 +40,7 @@
         <option value="$PROJECT_DIR$/PyRunnerDemo/scripts/helloWorld.py" />
         <option value="$PROJECT_DIR$/PyRunnerDemo/UI/MainViewModel.cs" />
         <option value="$PROJECT_DIR$/PyRunnerDemo/UI/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/PyRunnerDemo/scripts/test.py" />
       </list>
     </option>
   </component>
@@ -87,7 +88,7 @@
       <updated>1600915424912</updated>
       <workItem from="1600915441623" duration="479000" />
       <workItem from="1600915989808" duration="11800000" />
-      <workItem from="1600939795830" duration="1961000" />
+      <workItem from="1600939795830" duration="2639000" />
     </task>
     <servers />
   </component>
