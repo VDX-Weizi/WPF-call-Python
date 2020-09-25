@@ -1,0 +1,150 @@
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\scripts\kmeans.py
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\scripts\common.py
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\scripts\chart.py
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\data\stockdata.sqlite
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\PyRunnerDemo.exe.config
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\PyRunnerDemo.exe
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\PyRunnerDemo.pdb
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\JetBrains.Annotations.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\PyRunner.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\PyRunner.pdb
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\JetBrains.Annotations.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\UI\MainWindow.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\UI\App.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo_Content.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo_MarkupCompile.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo_MarkupCompile.lref
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\UI\MainWindow.baml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.g.resources
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.Properties.Resources.resources
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.CopyComplete
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.exe
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample\PyRunnerDemo\obj\Debug\PyRunnerDemo.pdb
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\scripts\kmeans.py
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\scripts\common.py
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\scripts\chart.py
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\data\stockdata.sqlite
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunnerDemo.exe.config
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunnerDemo.exe
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunnerDemo.pdb
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\JetBrains.Annotations.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunner.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunner.pdb
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\JetBrains.Annotations.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\UI\MainWindow.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\UI\App.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo_Content.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo_MarkupCompile.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo_MarkupCompile.lref
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\UI\MainWindow.baml
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.g.resources
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.Properties.Resources.resources
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.CopyComplete
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.exe
+C:\Users\admin\Documents\Sample Codes\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.pdb
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\scripts\kmeans.py
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\scripts\common.py
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\scripts\chart.py
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\data\stockdata.sqlite
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunnerDemo.exe.config
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunnerDemo.exe
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunnerDemo.pdb
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunner.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\PyRunner.pdb
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\UI\MainWindow.g.cs
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\UI\App.g.cs
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo_Content.g.cs
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo_MarkupCompile.cache
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo_MarkupCompile.lref
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\UI\MainWindow.baml
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.g.resources
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.Properties.Resources.resources
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.csproj.CopyComplete
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.exe
+C:\Users\Admin\Desktop\PyCsStocks_sample_PY_WPF\PyRunnerDemo\obj\Debug\PyRunnerDemo.pdb
