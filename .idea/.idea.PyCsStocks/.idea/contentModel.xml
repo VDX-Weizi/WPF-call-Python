@@ -54,7 +54,6 @@
         <e p="scripts" t="Include">
           <e p="chart.py" t="Include" />
           <e p="common.py" t="Include" />
-          <e p="helloWorld.py" t="Include" />
           <e p="kmeans.py" t="Include" />
         </e>
         <e p="UI" t="Include">
