@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D18E9E4-878A-4081-A336-A61538DC57A0/d7/15abfb1b/Task.cs" root0="SKIP_HIGHLIGHTING" />
@@ -87,7 +87,7 @@
       <updated>1600915424912</updated>
       <workItem from="1600915441623" duration="479000" />
       <workItem from="1600915989808" duration="11800000" />
-      <workItem from="1600939795830" duration="1347000" />
+      <workItem from="1600939609784" duration="109000" />
     </task>
     <servers />
   </component>
