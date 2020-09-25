@@ -156,7 +156,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="scripts\helloWorld.py" />
     <Content Include="scripts\kmeans.py">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
