@@ -93,6 +93,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="UI\HelloWorldViewModel.cs" />
     <Compile Include="UI\InverseBoolToVisibilityConverter.cs" />
     <Compile Include="UI\BoolToVisibilityConverter.cs" />
     <Compile Include="UI\RelayCommand.cs" />
@@ -157,6 +158,7 @@
   <ItemGroup>
     <Content Include="scripts\chart.py" />
     <Content Include="scripts\common.py" />
+    <Content Include="scripts\helloWorld.py" />
     <Content Include="scripts\kmeans.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -69,6 +69,7 @@ namespace PyRunnerDemo.UI
 			StockListVm = new StockListViewModel(this);
 			TreeViewVm = new TreeViewViewModel(this, kMeansScript);
 			ChartVm = new ChartViewModel(this, chartScript);
+			HelloWorldVm = new HelloWorldViewModel(this, helloScript);
 
 			// 'Invalidate' chart and tree when stock selection changes.
 			StockListVm.Stocks.ToList().ForEach(si => si.SelectionChanged += (sender, args) =>
@@ -106,6 +107,9 @@ namespace PyRunnerDemo.UI
 		/// </summary>
 		public TreeViewViewModel TreeViewVm { get; }
 
+		
+		public HelloWorldViewModel HelloWorldVm { get; }
+		
 		/// <summary>
 		/// Full path to the stocks database.
 		/// </summary>
@@ -267,6 +271,8 @@ namespace PyRunnerDemo.UI
 				{
 					NeedsTreeRefresh = !await TreeViewVm.PerformKMeans();
 				}
+				
+				bool helloWordResult = await HelloWorldVm.RunHelloWord();
 			}
 			finally
 			{

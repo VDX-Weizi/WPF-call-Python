@@ -10,6 +10,7 @@
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("scripts/chart.py")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("scripts/common.py")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("scripts/helloworld.py")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("scripts/kmeans.py")]
 
 

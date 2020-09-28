@@ -54,6 +54,7 @@
         <e p="scripts" t="Include">
           <e p="chart.py" t="Include" />
           <e p="common.py" t="Include" />
+          <e p="helloWorld.py" t="Include" />
           <e p="kmeans.py" t="Include" />
         </e>
         <e p="UI" t="Include">
@@ -61,6 +62,7 @@
           <e p="App.xaml.cs" t="Include" />
           <e p="BoolToVisibilityConverter.cs" t="Include" />
           <e p="ChartViewModel.cs" t="Include" />
+          <e p="HelloWorldViewModel.cs" t="Include" />
           <e p="InverseBoolToVisibilityConverter.cs" t="Include" />
           <e p="MainViewModel.cs" t="Include" />
           <e p="MainWindow.xaml" t="Include" />
